@@ -24,7 +24,7 @@ class WindowsPlatform(AbstractPlatform):
 
     def storage_config(self):
         return " Storage Config for windows"
-    def storage_config(self):
+    def notification_config(self):
         return " Storage Config for windows"
-    def storage_config(self):
+    def ui_config(self):
         return " Storage Config for windows"
